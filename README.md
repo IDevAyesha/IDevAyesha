@@ -1,10 +1,12 @@
 <h2 align="center">✨ Welcome to My GitHub! ✨</h2>
 
+---
+
 ## 💡 About Me
 
-I'm a **Software Engineer** with expertise in the **MERN stack**, dedicated to crafting **scalable**, **high-performance**, and **user-centric** web applications.  
-Skilled in **React.js**, **Next.js**, **Node.js**, and **Express.js**, I bring a solid understanding of both front-end and back-end development.  
-Driven by curiosity, I’m always exploring emerging technologies, embracing new challenges, and continuously growing as a developer.
+I'm a passionate **Software Engineer** with expertise in the **MERN stack**, committed to building **scalable**, **high-performance**, and **user-centric** web applications.  
+I’m proficient in **React.js**, **Next.js**, **Node.js**, and **Express.js**, with a strong foundation in both front-end and back-end development.  
+Constantly curious and growth-driven, I enjoy exploring new technologies, embracing challenges, and staying up-to-date with modern development practices.
 
 ---
 
@@ -36,20 +38,20 @@ Driven by curiosity, I’m always exploring emerging technologies, embracing new
 
 ## 📫 Let's Connect
 
-- 🌐 **LinkedIn**: [ayesha-azeem-910993249](https://www.linkedin.com/in/ayesha-azeem-910993249/)
+- 🌐 **LinkedIn**: [Ayesha Azeem](https://www.linkedin.com/in/ayesha-azeem-910993249/)
 - 📧 **Email**: [ayeshaaazeem690@gmail.com](mailto:ayeshaaazeem690@gmail.com) | [ayeshaaazeem693@gmail.com](mailto:ayeshaaazeem693@gmail.com)
 
 ---
 
 ## ⚡ Fun Fact
 
-> I have a passion for **discovering new paths** whenever I get the chance!  
-> I love diving into new technologies, exploring new ideas, and collaborating on exciting projects.
+> I’m deeply passionate about **exploring new paths**—whether it’s a new tech stack, a different design pattern, or an innovative project idea.  
+> I love to collaborate, learn, and create meaningful digital experiences that make an impact.
 
 > _“Code is like poetry — when written with clarity and purpose, it becomes art.”_
 
 ---
 
 <p align="center">
-  🌟 Thanks for visiting my profile! Let's build something amazing together 🌟
+  🌟 Thanks for visiting! Let’s connect and build something great together. 🌟
 </p>
