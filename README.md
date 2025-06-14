@@ -2,7 +2,7 @@
 
 ---
 
-## 💡 About Me
+## 💡 About MeSelf
 
 I'm a passionate **Software Engineer** with expertise in the **MERN stack**, committed to building **scalable**, **high-performance**, and **user-centric** web applications.  
 I’m proficient in **React.js**, **Next.js**, **Node.js**, and **Express.js**, with a strong foundation in both front-end and back-end development.  
@@ -10,7 +10,7 @@ Constantly curious and growth-driven, I enjoy exploring new technologies, embrac
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -36,7 +36,7 @@ Constantly curious and growth-driven, I enjoy exploring new technologies, embrac
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
 - 🌐 **LinkedIn**: [Ayesha Azeem](https://www.linkedin.com/in/ayesha-azeem-910993249/)
 - 📧 **Email**: [ayeshaaazeem690@gmail.com](mailto:ayeshaaazeem690@gmail.com) | [ayeshaaazeem693@gmail.com](mailto:ayeshaaazeem693@gmail.com)
@@ -45,10 +45,10 @@ Constantly curious and growth-driven, I enjoy exploring new technologies, embrac
 
 ## ⚡ Fun Fact
 
-> I’m deeply passionate about **exploring new paths**—whether it’s a new tech stack, a different design pattern, or an innovative project idea.  
+> I’m deeply passionate about **exploring new paths** whether it’s a new tech stack, a different design pattern, or an innovative project idea.  
 > I love to collaborate, learn, and create meaningful digital experiences that make an impact.
 
-> _“Code is like poetry — when written with clarity and purpose, it becomes art.”_
+> _“Code is like poetry,  when written with clarity and purpose, it becomes art.”_
 
 ---
 
